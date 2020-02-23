@@ -1,7 +1,7 @@
 # go graceful shutdown machinism
 
 # reference
-    [go graceful shutdown](https://www.youtube.com/watch?v=nCn1Wmi6Wug)
+[go graceful shutdown](https://www.youtube.com/watch?v=nCn1Wmi6Wug)
 
 ## question description
 
